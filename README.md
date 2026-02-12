@@ -1,11 +1,11 @@
-# Test Assignment – System & Business Analysis
+# TEST ASSIGMENT - SYSTEM & BUSINESS ANALYSIS
 
 This repository contains my solutions for the test assignment as a **System & Business Analyst**.  
 The tasks include **process modeling, requirement specification, and API design**.
 
 
 
-## ⚡ Key Points on Test Assignment Structure
+## ⚡ KEY POINTS ON TEST ASSIGMENT STRUCTURE
 
 ### **Task 1 – BPMN**
 The BPMN model reflects the workflow as described in the task, including noted questions and inconsistencies / [BPMN Diagram](https://github.com/edmnikolaeva/BA.SA.tesk.task/blob/main/задани1.jpg)
@@ -20,7 +20,7 @@ A UML Activity Diagram demonstrates all steps in the backend algorithm executed 
 [openAPI](https://github.com/edmnikolaeva/BA.SA.tesk.task/blob/main/задание3.1.yaml) /
 [UML.Activity.Diagram](https://github.com/edmnikolaeva/BA.SA.tesk.task/blob/main/задание3.2.jpg)
 
-## ⚡ Additional key Points on API
+## ⚡ ADDITIONAL KEY POINTS ON API
 
 - HTTP method and endpoint  
 - Request and response parameters  
@@ -28,7 +28,7 @@ A UML Activity Diagram demonstrates all steps in the backend algorithm executed 
 - Example requests/responses  
 
 
-## ⚙️ Tools & Notations Used
+## ⚙️ TOOLS & NOTATIONS USED
 
 - BPMN 2.0  
 - UML Activity Diagram
