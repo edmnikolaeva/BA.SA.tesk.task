@@ -19,7 +19,7 @@ An optional process diagram is included.
 ### **Task 3 – User Registration API**
 OpenAPI specification and backend algorithm for user registration, including success and error responses, validation steps, and example requests/responses.  
 A UML Activity Diagram demonstrates all steps in the backend algorithm executed before creating a user in the database.
-[openAPI](https://github.com/edmnikolaeva/BA.SA.tesk.task/blob/main/задание3.1.yaml)
+[openAPI](https://github.com/edmnikolaeva/BA.SA.tesk.task/blob/main/задание3.1.yaml) /
 [UML.Activity.Diagram](https://github.com/edmnikolaeva/BA.SA.tesk.task/blob/main/задание3.2.jpg)
 
 ## ⚡ Additional key Points on API
